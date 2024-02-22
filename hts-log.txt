@@ -1,0 +1,146 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Feb 2024 02:36:53 at https://saveukraine.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://saveukraine.org/ -O1 "C:\My Web Sites\pels" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:38:35	Error: 	"Not Found" (404) at link https://saveukraine.org/comments/feed (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lE92JQEl8qw.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlE92JQEl8qw.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlE92JQEk.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z11lE92JQEl8qw.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlE92JQEl8qw.woff (from https://saveukraine.org/)
+02:38:53	Error: 	"Not Found" (404) at link https://saveukraine.org/home/admin/web/saveukraine.org/public_html/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlE92JQEk.woff (from https://saveukraine.org/)
+02:38:53	Warning: 	Link https://saveukraine.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+02:39:43	Error: 	"Not Found" (404) at link https://saveukraine.org/de/comments/feed (from https://saveukraine.org/de/)
+02:42:40	Error: 	"Not Found" (404) at link https://saveukraine.org/pt/comments/feed (from https://saveukraine.org/pt/)
+02:43:25	Error: 	"Not Found" (404) at link https://saveukraine.org/ua/comments/feed (from https://saveukraine.org/ua/)
+02:43:25	Warning: 	Moved Permanently for https://saveukraine.org/uk/
+02:43:25	Warning: 	File has moved from https://saveukraine.org/uk/ to https://saveukraine.org/ukraine-displaced-population-to-rise-to-6-7-mln-united-nations
+02:43:52	Error: 	"Not Found" (404) at link https://saveukraine.org/ua/humanitarna-dopomoha-ukraini (from https://saveukraine.org/ua/)
+02:43:52	Error: 	"Not Found" (404) at link https://saveukraine.org/pl/comments/feed (from https://saveukraine.org/pl/)
+02:44:08	Error: 	"Not Found" (404) at link https://saveukraine.org/it/comments/feed (from https://saveukraine.org/it/)
+02:44:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=8923
+02:44:35	Warning: 	File has moved from https://saveukraine.org/?p=8923 to https://saveukraine.org/about
+02:44:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=17253
+02:44:35	Warning: 	File has moved from https://saveukraine.org/?p=17253 to https://saveukraine.org/donate
+02:44:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=9104
+02:44:35	Warning: 	File has moved from https://saveukraine.org/?p=9104 to https://saveukraine.org/ways-to-help
+02:45:12	Warning: 	Moved Permanently for https://saveukraine.org/?p=17228
+02:45:12	Warning: 	File has moved from https://saveukraine.org/?p=17228 to https://saveukraine.org/events
+02:45:12	Warning: 	Moved Permanently for https://saveukraine.org/?p=9102
+02:45:12	Warning: 	File has moved from https://saveukraine.org/?p=9102 to https://saveukraine.org/volunteer
+02:45:20	Warning: 	Moved Permanently for https://saveukraine.org/?p=18393
+02:45:20	Warning: 	File has moved from https://saveukraine.org/?p=18393 to https://saveukraine.org/join-international-legion
+02:45:22	Warning: 	Moved Permanently for https://saveukraine.org/?p=18274
+02:45:22	Warning: 	File has moved from https://saveukraine.org/?p=18274 to https://saveukraine.org/over-20000-volunteers-join-international-legion-to-fight-against-russia
+02:45:22	Error: 	"Method Not Allowed" (405) at link https://saveukraine.org/xmlrpc.php (from https://saveukraine.org/over-20000-volunteers-join-international-legion-to-fight-against-russia)
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=18261
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=18261 to https://saveukraine.org/russia-escalates-attacks-on-ukraines-civilian-areas-destroying-maternity-hospital
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=18244
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=18244 to https://saveukraine.org/ukraine-displaced-population-to-rise-to-6-7-mln-united-nations
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=9110
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=9110 to https://saveukraine.org/contacts
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=20227
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=20227 to https://saveukraine.org/de/uber-uns
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=20235
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=20235 to https://saveukraine.org/de/spenden-fur-ukraine
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=20244
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=20244 to https://saveukraine.org/de/moglichkeiten-zu-helfen
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=20237
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=20237 to https://saveukraine.org/de/kundgebungen
+02:45:25	Warning: 	Retry after error -2 (Receive Time Out) at link https://saveukraine.org/?p=20247 (from https://saveukraine.org/de/freiwillig)
+02:45:25	Warning: 	Retry after error -4 (Connect Error) at link https://saveukraine.org/de (from https://saveukraine.org/de/freiwillig)
+02:45:25	Warning: 	Moved Permanently for https://saveukraine.org/?p=20239
+02:45:25	Warning: 	File has moved from https://saveukraine.org/?p=20239 to https://saveukraine.org/de/internationalen-legion-anschliessen-ukraine
+02:45:25	Warning: 	Retry after error -4 (Connect Error) at link https://saveukraine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsaveukraine.org%2Fde%2Finternationalen-legion-anschliessen-ukraine&format=xml (from https://saveukraine.org/de/internationalen-legion-anschliessen-ukraine)
+02:45:27	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://saveukraine.org/wp-content/uploads/elementor/css/post-20229.css?ver=1655276840 (from https://saveukraine.org/de/kontaktieren-sie-uns)
+02:45:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://saveukraine.org/wp-json/wp/v2/pages/20229 (from https://saveukraine.org/de/kontaktieren-sie-uns)
+02:45:28	Warning: 	Moved Permanently for https://saveukraine.org/?p=20229
+02:45:28	Warning: 	File has moved from https://saveukraine.org/?p=20229 to https://saveukraine.org/de/kontaktieren-sie-uns
+02:45:28	Warning: 	Moved Permanently for https://saveukraine.org/?p=20394
+02:45:28	Warning: 	File has moved from https://saveukraine.org/?p=20394 to https://saveukraine.org/pt/sobre-nos
+02:45:28	Warning: 	Moved Permanently for https://saveukraine.org/?p=20377
+02:45:28	Warning: 	File has moved from https://saveukraine.org/?p=20377 to https://saveukraine.org/pt/contribuir
+02:45:28	Warning: 	Moved Permanently for https://saveukraine.org/?p=20362
+02:45:28	Warning: 	File has moved from https://saveukraine.org/?p=20362 to https://saveukraine.org/pt/formas-de-ajudar-ucrania
+02:45:28	Warning: 	Moved Permanently for https://saveukraine.org/?p=20372
+02:45:28	Warning: 	File has moved from https://saveukraine.org/?p=20372 to https://saveukraine.org/pt/manifestacoes
+02:45:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://saveukraine.org/wp-json/wp/v2/pages/20357 (from https://saveukraine.org/pt/voluntariado)
+02:45:30	Warning: 	Moved Permanently for https://saveukraine.org/?p=20357
+02:45:30	Warning: 	File has moved from https://saveukraine.org/?p=20357 to https://saveukraine.org/pt/voluntariado
+02:45:30	Warning: 	Moved Permanently for https://saveukraine.org/?p=20367
+02:45:30	Warning: 	File has moved from https://saveukraine.org/?p=20367 to https://saveukraine.org/pt/alistamento-legiao-internacional
+02:45:30	Warning: 	Moved Permanently for https://saveukraine.org/?p=20389
+02:45:30	Warning: 	File has moved from https://saveukraine.org/?p=20389 to https://saveukraine.org/pt/contacte-nos
+02:45:30	Warning: 	Moved Permanently for https://saveukraine.org/?p=17403
+02:45:30	Warning: 	File has moved from https://saveukraine.org/?p=17403 to https://saveukraine.org/ua/pro-nas
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19364
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19364 to https://saveukraine.org/ua/zrobyty-vnesok
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19380
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19380 to https://saveukraine.org/ua/inshi-sposoby-dopomohy
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19386
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19386 to https://saveukraine.org/ua/aktsii-na-pidtrymku-ukrainy
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19398
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19398 to https://saveukraine.org/ua/volonterstvo
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19423
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19423 to https://saveukraine.org/ua/doluchaisya-do-international-legion
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19122
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19122 to https://saveukraine.org/ua/kontakty
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19621
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19621 to https://saveukraine.org/pl/o-nas
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19593
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19593 to https://saveukraine.org/pl/przekaz-darowizne
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19598
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19598 to https://saveukraine.org/pl/dodatkowe-sposoby-pomocy
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19606
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19606 to https://saveukraine.org/pl/wiec-poparcia-dla-ukrainy
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19611
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19611 to https://saveukraine.org/pl/wolontariat
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19616
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19616 to https://saveukraine.org/pl/miedzynarodowy-legion-obrony-terytorialnej-ukrainy
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19626
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19626 to https://saveukraine.org/pl/kontakt
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19999
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19999 to https://saveukraine.org/it/%d1%81hi-siamo
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19937
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19937 to https://saveukraine.org/it/donazioni-ucraina
+02:45:31	Error: 	"Not Found" (404) at link https://saveukraine.org/donate/ukrainian-paramedics (from https://saveukraine.org/it/donazioni-ucraina)
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19965
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19965 to https://saveukraine.org/it/come-aiutare-ucraina
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19972
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19972 to https://saveukraine.org/it/manifestazioni-ucraina
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19981
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19981 to https://saveukraine.org/it/volontariato
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=19992
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=19992 to https://saveukraine.org/it/legione-internazionale-ucraina
+02:45:31	Warning: 	Moved Permanently for https://saveukraine.org/?p=20005
+02:45:31	Warning: 	File has moved from https://saveukraine.org/?p=20005 to https://saveukraine.org/it/contatti
+02:45:32	Error: 	"Not Found" (404) at link https://saveukraine.org/wp-content/themes/alone/images/arrow-right.svg (from https://saveukraine.org/wp-content/themes/alone/css/alone-main.css)
+02:45:32	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://saveukraine.org/?p=18642 (from https://saveukraine.org/volunteer/become-a-volunteer)
+02:45:33	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://saveukraine.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsaveukraine.org%2Fvolunteer%2Fbecome-a-volunteer (from https://saveukraine.org/volunteer/become-a-volunteer)
+02:45:34	Warning: 	Moved Permanently for https://saveukraine.org/?p=19734
+02:45:34	Warning: 	File has moved from https://saveukraine.org/?p=19734 to https://saveukraine.org/ways-to-help/donate-a-vehicle
+02:45:34	Warning: 	Moved Permanently for https://saveukraine.org/?p=19723
+02:45:34	Warning: 	File has moved from https://saveukraine.org/?p=19723 to https://saveukraine.org/volunteer/provide-housing
+02:45:34	Warning: 	Moved Permanently for https://saveukraine.org/?p=19725
+02:45:34	Warning: 	File has moved from https://saveukraine.org/?p=19725 to https://saveukraine.org/volunteer/provide-transportation
+02:45:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=19727
+02:45:35	Warning: 	File has moved from https://saveukraine.org/?p=19727 to https://saveukraine.org/volunteer/contact-legislator
+02:45:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=19730
+02:45:35	Warning: 	File has moved from https://saveukraine.org/?p=19730 to https://saveukraine.org/volunteer/become-medical-volunteer
+02:45:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=20247
+02:45:35	Warning: 	File has moved from https://saveukraine.org/?p=20247 to https://saveukraine.org/de/freiwillig
+02:45:35	Warning: 	Moved Permanently for https://saveukraine.org/de
+02:45:35	Warning: 	File has moved from https://saveukraine.org/de to https://saveukraine.org/de/
+02:45:35	Error: 	Unable to save file C:/My Web Sites/pels/saveukraine.org/de: Permission denied
+02:45:35	Warning: 	Moved Permanently for https://saveukraine.org/?p=18642
+02:45:35	Warning: 	File has moved from https://saveukraine.org/?p=18642 to https://saveukraine.org/volunteer/become-a-volunteer
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 42 seconds : 623 links scanned, 542 files written (24093070 bytes overall) [9576257 bytes received at 18345 bytes/sec], 23280361 bytes transferred using HTTP compression in 466 files, ratio 26%, 24.8 requests per connection
+(20 errors, 115 warnings, 0 messages)
